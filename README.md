@@ -5,3 +5,5 @@ Created a weather forecasting website using the OpenWeather API. The OpenWeather
 
 I used a combination of HTML, CSS, and JavaScript to build the website, which allows users to easily access the weather information they need.
 
+# API Used - OpenWeather 
+
